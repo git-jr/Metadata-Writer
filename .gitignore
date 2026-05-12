@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+
+# TFLite models (download separately — see README)
+*.tflite
+*.zip
+
+# IDE / tools
+.idea/
+.vscode/
+.claude/
+.mcp.json
+
+# OS
+.DS_Store
+Thumbs.db
